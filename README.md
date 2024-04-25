@@ -1,4 +1,4 @@
-Implementation of neural-corrector method of Marlantes and Maki (2021, 2022, 2023a, 2023b, 2024) for 1-DOF Duffing equation.
+Implementation of neural-corrector method of Marlantes and Maki (2021, 2022, 2023, 2024a, 2024b) for 1-DOF Duffing equation.
 
 (c) 2024 The Regents of the University of Michigan
 
