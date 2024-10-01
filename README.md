@@ -4,6 +4,10 @@ Implementation of neural-corrector method of Marlantes and Maki (2021, 2022, 202
 
 This code is licensed under the GNU GPL v3 license, available at https://opensource.org/license/gpl-3-0
 
+If you use this code in your work, please cite this repository using the "Cite this repository" tool in GitHub. It will generate a citation in the style and format of your choosing.
+
+---
+
 Duffing model:
    m*xdd + b1*xd + b2*xd^2 + c1*x + c3*x^3 + c5*x^5 = SUM_i (zeta_i - alpha*x)*cos(omega_i*t + phi_i)
 
